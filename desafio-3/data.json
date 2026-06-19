@@ -1,0 +1,14 @@
+{
+  "nome": "Lucelho",
+  "sobrenome": "Silva",
+  "email": "lucelho.silva@example.com",
+  "genero": "Male",
+  "telefone": "11999998888",
+  "data_nascimento": {
+    "dia": "10",
+    "mes": "May",
+    "ano": "1995"
+  },
+  "hobbies": ["Sports", "Reading"],
+  "imagem": "sonnar.png"
+}
